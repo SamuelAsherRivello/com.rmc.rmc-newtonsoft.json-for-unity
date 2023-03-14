@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SamuelAsherRivello/com.rmc.rmc-newtonsoft.json-for-unity.git",
+    "url": "https://github.com/SamuelAsherRivello/rmc-newtonsoft.json-for-unity.git",
     "directory": "./"
   },
   "keywords": [
@@ -24,9 +24,9 @@
   "author": "jilleJr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SamuelAsherRivello/com.rmc.rmc-newtonsoft.json-for-unity/issues"
+    "url": "https://github.com/SamuelAsherRivello/rmc-newtonsoft.json-for-unity/issues"
   },
-  "homepage": "https://github.com/SamuelAsherRivello/com.rmc.rmc-newtonsoft.json-for-unity#readme",
+  "homepage": "https://github.com/SamuelAsherRivello/rmc-newtonsoft.json-for-unity#readme",
   "category": "Utility",
   "dependencies": {},
   "type": "library"
